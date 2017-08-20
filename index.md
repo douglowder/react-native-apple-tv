@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## React Native for Apple TV
 
 You can use the [editor on GitHub](https://github.com/dlowder-salesforce/react-native-apple-tv/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 

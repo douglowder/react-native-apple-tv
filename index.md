@@ -6,7 +6,7 @@ Yes, the [React Native platform](https://facebook.github.io/react-native) now ru
 
 ### Samples and Demos
 
-- [Presentation and demos given at Chain React 2017](https://github.com/dlowder-salesforce/RNAppleTVTalk)ct 
+- [Presentation and demos given at Chain React 2017](https://github.com/dlowder-salesforce/RNAppleTVTalk)
 - [Demo of adding React Native to a tvOS project using Cocoapods](https://github.com/dlowder-salesforce/react-native-tvos-cocoapods-test)
 - [Sample video application](https://github.com/dlowder-salesforce/AppleTVVideoDemo) using the [react-native-video](https://github.com/react-native-community/react-native-video) library
 

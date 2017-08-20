@@ -1,4 +1,4 @@
-Yes, the [React Native platform](https://facebook.github.io/react-native) now runs on the (Apple TV)[https://www.apple.com/tv/]!
+Yes, the [React Native platform](https://facebook.github.io/react-native) now runs on the [Apple TV](https://www.apple.com/tv/)!
 
 ## Documentation
 

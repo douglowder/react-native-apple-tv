@@ -11,9 +11,9 @@ Yes, the [React Native platform](https://facebook.github.io/react-native) now ru
 - [Sample video application](https://github.com/dlowder-salesforce/AppleTVVideoDemo) using the [react-native-video](https://github.com/react-native-community/react-native-video) library
 
 ### Open Issues
-- (Programmatically setting the focused view)[https://github.com/facebook/react-native/issues/13855]
-- (TV remote events not sent from `Modal` component)[https://github.com/facebook/react-native/issues/15389]
-- (`react-native link` needs proper tvOS support)[https://github.com/facebook/react-native/issues/13783]
-- (Scrolling text in tvOS)[https://github.com/facebook/react-native/issues/14852]
+- [Programmatically setting the focused view](https://github.com/facebook/react-native/issues/13855)
+- [TV remote events not sent from `Modal` component](https://github.com/facebook/react-native/issues/15389)
+- [`react-native link` needs proper tvOS support](https://github.com/facebook/react-native/issues/13783)
+- [Scrolling text in tvOS](https://github.com/facebook/react-native/issues/14852)
 
 

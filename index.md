@@ -4,6 +4,7 @@ Yes, the [React Native platform](https://facebook.github.io/react-native) now ru
 
 - [Official React Native documentation for tvOS](https://facebook.github.io/react-native/docs/building-for-apple-tv.html)
 - [Video of talk given at Chain React 2017](https://www.youtube.com/watch?v=jDRXGqb9hno)
+- [Podcast on React Native for Apple TV](https://itunes.apple.com/us/podcast/75-building-apple-tv-apps-feat-douglas-lowder/id1058647602?i=1000391604510&mt=2)
 
 ### Samples and Demos
 

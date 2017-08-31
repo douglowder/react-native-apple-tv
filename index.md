@@ -14,7 +14,7 @@ Yes, the [React Native platform](https://facebook.github.io/react-native) now ru
 - [Demo of adding React Native to a tvOS project using Cocoapods](https://github.com/dlowder-salesforce/react-native-tvos-cocoapods-test)
 - [Sample video application](https://github.com/dlowder-salesforce/AppleTVVideoDemo) using the [react-native-video](https://github.com/react-native-community/react-native-video) library
 
-### Known React Native apps shipping on the Apple TV App Store
+### React Native apps shipping on the Apple TV App Store
 
 - [Unsplash for Apple TV](https://itunes.apple.com/us/app/unsplash-for-apple-tv/id1165050871?mt=8)
 

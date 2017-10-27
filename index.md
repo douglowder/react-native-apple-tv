@@ -18,10 +18,8 @@ Yes, the [React Native platform](https://facebook.github.io/react-native) now ru
 
 - [Unsplash for Apple TV](https://itunes.apple.com/us/app/unsplash-for-apple-tv/id1165050871?mt=8)
 
-### Open Issues
-- [Programmatically setting the focused view](https://github.com/facebook/react-native/issues/13855)
-- [TV remote events not sent from `Modal` component](https://github.com/facebook/react-native/issues/15389)
-- [`react-native link` needs proper tvOS support](https://github.com/facebook/react-native/issues/13783)
-- [Scrolling text in tvOS](https://github.com/facebook/react-native/issues/14852)
+### Github links
+- [Open issues](https://github.com/facebook/react-native/issues?q=is%3Aissue+%28%27Apple+TV%27+%7C+tvos%29+is%3Aopen)
+- [Pull requests](https://github.com/facebook/react-native/pulls?q=is%3Apr+%28%27Apple+TV%27+%7C+tvos%29+is%3Aopen)
 
 

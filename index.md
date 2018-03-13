@@ -19,6 +19,7 @@ Yes, the [React Native platform](https://facebook.github.io/react-native) now ru
 - [Unsplash for Apple TV](https://itunes.apple.com/us/app/unsplash-for-apple-tv/id1165050871?mt=8)
 
 ### Github links
+- [react-native issues assigned to dlowder-salesforce](https://github.com/facebook/react-native/issues?q=is%3Aopen+assignee%3Adlowder-salesforce)
 - [Open issues containing 'Apple TV'](https://github.com/facebook/react-native/issues?utf8=%E2%9C%93&q=is%3Aissue%20%27Apple%20TV%27%20is%3Aopen%20)
 - [Open issues containing 'AppleTV'](https://github.com/facebook/react-native/issues?utf8=%E2%9C%93&q=is%3Aissue%20%27AppleTV%27%20is%3Aopen%20)
 - [Open issues containing 'tvOS'](https://github.com/facebook/react-native/issues?utf8=%E2%9C%93&q=is%3Aissue%20%27tvOS%27%20is%3Aopen%20)

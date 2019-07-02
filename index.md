@@ -2,6 +2,10 @@
 
 Yes, the [React Native platform](https://facebook.github.io/react-native) now runs on the [Apple TV](https://www.apple.com/tv/)! This site summarizes the current state of the platform on tvOS.
 
+### Main repo
+
+Starting June 2019, React Native support for Apple TV is going to be maintained in a [community repo](https://github.com/react-native-community/react-native-tvos) and be published in the [`react-native-tvos`](https://www.npmjs.com/package/react-native-tvos) NPM package.
+
 ### Documentation and Presentations
 
 - [Official React Native documentation for tvOS](https://facebook.github.io/react-native/docs/building-for-apple-tv.html)
@@ -12,8 +16,7 @@ Yes, the [React Native platform](https://facebook.github.io/react-native) now ru
 ### Samples and Demos
 
 - [Project containing presentation and demos](https://github.com/dlowder-salesforce/RNAppleTVTalk)
-- [Demo of adding React Native to a tvOS project using Cocoapods](https://github.com/dlowder-salesforce/react-native-tvos-cocoapods-test)
-- [Sample video application](https://github.com/dlowder-salesforce/AppleTVVideoDemo) using the [react-native-video](https://github.com/react-native-community/react-native-video) library
+- - The master branch of the above repo has been recently updated to work with the new `react-native-tvos` NPM package
 
 ### React Native apps shipping on the Apple TV App Store
 

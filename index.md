@@ -1,4 +1,4 @@
-![Apple TV Demo GIF](./rnappletv.gif)
+<!-- ![Apple TV Demo GIF](./rnappletv.gif) -->
 
 Yes, the [React Native platform](https://facebook.github.io/react-native) now runs on the [Apple TV](https://www.apple.com/tv/)! This site summarizes the current state of the platform on tvOS.
 

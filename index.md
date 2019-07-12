@@ -8,7 +8,8 @@ Starting June 2019, React Native support for Apple TV is going to be maintained 
 
 ### Documentation and Presentations
 
-- [Official React Native documentation for tvOS](https://facebook.github.io/react-native/docs/building-for-apple-tv.html)
+- [Updated React Native tvOS documentation from community repo](https://github.com/react-native-community/react-native-tvos/blob/master/README-appletv.md)
+- [Older React Native documentation for tvOS from core repo](https://facebook.github.io/react-native/docs/building-for-apple-tv.html)
 - [Video of talk given at SF ReactJS meetup in February 2018](https://www.youtube.com/watch?v=zrYiQr6CBg8)
 - [Podcast on React Native for Apple TV](https://itunes.apple.com/us/podcast/75-building-apple-tv-apps-feat-douglas-lowder/id1058647602?i=1000391604510&mt=2)
 - [Video of talk given at Chain React 2017](https://www.youtube.com/watch?v=jDRXGqb9hno)

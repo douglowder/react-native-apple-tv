@@ -24,12 +24,8 @@ Starting June 2019, React Native support for Apple TV is going to be maintained 
 - [Unsplash for Apple TV](https://itunes.apple.com/us/app/unsplash-for-apple-tv/id1165050871?mt=8)
 
 ### Github links
-- [react-native issues assigned to dlowder-salesforce](https://github.com/facebook/react-native/issues?q=is%3Aopen+assignee%3Adlowder-salesforce)
-- [Open issues containing 'Apple TV'](https://github.com/facebook/react-native/issues?utf8=%E2%9C%93&q=is%3Aissue%20%27Apple%20TV%27%20is%3Aopen%20)
-- [Open issues containing 'AppleTV'](https://github.com/facebook/react-native/issues?utf8=%E2%9C%93&q=is%3Aissue%20%27AppleTV%27%20is%3Aopen%20)
-- [Open issues containing 'tvOS'](https://github.com/facebook/react-native/issues?utf8=%E2%9C%93&q=is%3Aissue%20%27tvOS%27%20is%3Aopen%20)
-- [Open pull requests containing 'Apple TV'](https://github.com/facebook/react-native/pulls?utf8=%E2%9C%93&q=is%3Aissue%20%27Apple%20TV%27%20is%3Aopen%20)
-- [Open pull requests containing 'AppleTV'](https://github.com/facebook/react-native/pulls?utf8=%E2%9C%93&q=is%3Aissue%20%27AppleTV%27%20is%3Aopen%20)
-- [Open pull requests containing 'tvOS'](https://github.com/facebook/react-native/pulls?utf8=%E2%9C%93&q=is%3Aissue%20%27tvOS%27%20is%3Aopen%20)
+- [Open issues](https://github.com/react-native-community/react-native-tvos/issues)
+- [Open pull requests](https://github.com/facebook/react-native/issues?utf8=%E2%9C%93&q=is%3Aissue%20%27Apple%20TV%27%20is%3Aopen%20)
+- [Code for latest release branch](https://github.com/react-native-community/react-native-tvos/tree/tvos-v0.59.8)
 
 

@@ -25,7 +25,7 @@ Starting June 2019, React Native support for Apple TV is going to be maintained 
 
 ### Github links
 - [Open issues](https://github.com/react-native-community/react-native-tvos/issues)
-- [Open pull requests](https://github.com/facebook/react-native/issues?utf8=%E2%9C%93&q=is%3Aissue%20%27Apple%20TV%27%20is%3Aopen%20)
-- [Code for latest release branch](https://github.com/react-native-community/react-native-tvos/tree/tvos-v0.59.8)
+- [Open pull requests](https://github.com/react-native-community/react-native-tvos/pulls)
+- [Code for latest release branch](https://github.com/react-native-community/react-native-tvos/tree/tvos-v0.60.4)
 
 

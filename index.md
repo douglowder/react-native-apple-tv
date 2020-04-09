@@ -24,10 +24,12 @@ Starting June 2019, React Native support for Apple TV is going to be maintained 
 ### React Native apps shipping on the Apple TV App Store
 
 - [Unsplash for Apple TV](https://itunes.apple.com/us/app/unsplash-for-apple-tv/id1165050871?mt=8)
+- [Photoframe for Apple TV](https://apps.apple.com/us/app/tv-photoframe/id1455232077?ls=1)
 
 ### Github links
 - [Open issues](https://github.com/react-native-community/react-native-tvos/issues)
 - [Open pull requests](https://github.com/react-native-community/react-native-tvos/pulls)
-- [Code for latest release branch](https://github.com/react-native-community/react-native-tvos/tree/tvos-v0.60.4)
+- [Release notes](https://github.com/react-native-community/react-native-tvos/releases)
+- [Code for latest release branch](https://github.com/react-native-community/react-native-tvos/tree/tvos-v0.61.2)
 
 

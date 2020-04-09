@@ -18,6 +18,8 @@ Starting June 2019, React Native support for Apple TV is going to be maintained 
 
 - [Project containing presentation and demos](https://github.com/dlowder-salesforce/RNAppleTVTalk)
   - The master branch of the above repo has been recently updated to work with the new `react-native-tvos` NPM package
+- [Demo of react-navigation package on Apple TV](https://github.com/dlowder-salesforce/ReactNavigationTVDemo)
+  - [Video of the react-navigation app](./ReactNavigationTVDemo.mov)
 
 ### React Native apps shipping on the Apple TV App Store
 

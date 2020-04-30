@@ -6,6 +6,10 @@ Yes, the [React Native platform](https://facebook.github.io/react-native) now ru
 
 Starting June 2019, React Native support for Apple TV is going to be maintained in a [community repo](https://github.com/react-native-community/react-native-tvos) and be published in the [`react-native-tvos`](https://www.npmjs.com/package/react-native-tvos) NPM package.
 
+### Latest version
+
+`react-native-tvos@0.62.2-0` (based on the core 0.62.2 release)
+
 ### Documentation and Presentations
 
 - [Updated React Native tvOS documentation from community repo](https://github.com/react-native-community/react-native-tvos/blob/master/README-appletv.md)

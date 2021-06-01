@@ -8,7 +8,7 @@ Starting June 2019, React Native support for Apple TV and Android TV is maintain
 
 ### Latest version
 
-`react-native-tvos@0.63.1-1` (based on the core 0.63.1 release)
+`react-native-tvos@0.63.4-0` (based on the core 0.63.4 release)
 
 ### Documentation and Presentations
 

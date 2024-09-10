@@ -1,0 +1,19 @@
+<svg stroke="#61dafb" fill="#61dafb" height="800px" width="800px" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" 
+	 viewBox="0 0 512 512" xml:space="preserve">
+  <title>React Native TV Logo</title>
+<g>
+	<g>
+		<path d="M501.801,81.696H10.199C4.566,81.696,0,86.262,0,91.895v286.187c0,5.633,4.566,10.199,10.199,10.199h193.335
+			l-21.624,21.624h-29.432c-5.633,0-10.199,4.566-10.199,10.199c0,5.633,4.566,10.199,10.199,10.199h207.044
+			c5.633,0,10.199-4.566,10.199-10.199c0-5.633-4.566-10.199-10.199-10.199H330.09l-21.624-21.624h193.335
+			c5.633,0,10.199-4.566,10.199-10.199V91.895C512,86.262,507.434,81.696,501.801,81.696z M210.758,409.904l21.624-21.624h47.235
+			l21.623,21.624H210.758z M491.602,367.883H20.398V102.095h471.203V367.883z"/>
+	</g>
+</g>
+  <circle cx="255" cy="235" r="20.5" fill="#61dafb"/>
+  <g stroke="#61dafb" stroke-width="10" fill="none">
+    <ellipse rx="110" ry="42" transform="translate(255, 235)" />
+    <ellipse rx="110" ry="42" transform="translate(255, 235) rotate(60)"/>
+    <ellipse rx="110" ry="42" transform="translate(255, 235) rotate(120)"/>
+  </g>
+</svg>

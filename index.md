@@ -6,6 +6,7 @@ Yes, the [React Native platform](https://facebook.github.io/react-native) runs o
 
 ### [React Native for TV Wiki](https://github.com/react-native-tvos/react-native-tvos/wiki)
 
+[React Native TV logo (SVG)](./rntv.svg)
 
 
 
